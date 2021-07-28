@@ -13,4 +13,3 @@ function createMenuMarkup(menu) {
   //   return menu.map(menuTemplate).join('');
   return menuTemplate(menu);
 }
-console.log(menuMarkup);
